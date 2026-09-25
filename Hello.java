@@ -1,4 +1,4 @@
 public class Hello{
 public static void main(String[] args){
-System.out.println("Welcome to git-day-3");
+System.out.println("modified from master branch);
 }}
