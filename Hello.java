@@ -1,6 +1,6 @@
 public class Hello{
 public static void main(String[] args){
 
-System.out.println("Welcome from master");
+System.out.println("Welcome from conflict demo - new");
 
 }}
