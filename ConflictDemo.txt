@@ -1,2 +1,2 @@
-master version
+Conflict version
 
